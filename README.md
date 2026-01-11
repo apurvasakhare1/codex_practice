@@ -130,5 +130,3 @@ This repository is primarily for learning.
 Feel free to explore, fork, and suggest improvements 🌱
 
 ---
-
-📌 *Created for academic learning and continuous skill development.*

@@ -1,3 +1,1 @@
-# Write code below 💖
-
-print('Hi')
+print('Hello World!')
